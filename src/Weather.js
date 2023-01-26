@@ -28,7 +28,7 @@ export default function Weather(){
                 alt="Mostly cloudy" 
                 
                 />
-                      
+                     
      <span className="temperature">6</span>
      <span classsName="unit">°C</span>  
      
