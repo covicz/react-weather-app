@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
       
-      <Weather defaultcity="London"/>
+      <Weather defaultCity="London"/>
       <footer>
         Coded by Paulina Konieczkowicz and is open-sourced on{" "}
         <a
