@@ -1,6 +1,8 @@
 .WeatherForecast {
     text-align: center;
-    margin-top: 20px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+    
 }
 .ForecastTemp-min {
     opacity: 0.6;
